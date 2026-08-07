@@ -1,2 +1,2 @@
 # swastik-tech
-Modernizing SwastikTech with Spring Boot, Angular 19 and Azure
+Modernizing SwastikTech with Angular 19 and Azure
